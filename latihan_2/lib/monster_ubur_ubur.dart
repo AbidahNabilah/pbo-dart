@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:latihan_2/monster.dart';
 
 class MonsterUburUbur extends Monster {
-  String swim() => "boomm... AbidahNabilah";
+  String swim() => "boomm";
 
   @override
   String eatHuman(){
